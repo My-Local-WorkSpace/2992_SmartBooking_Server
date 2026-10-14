@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fluG5zD52EE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vimal\\source\\repos\\My-Local-WorkSpace\\2992_SmartBooking_Server\\2992_SmartBooking_Server\\2992_SmartBooking_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vimal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\vimal\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

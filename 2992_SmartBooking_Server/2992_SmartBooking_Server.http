@@ -1,0 +1,6 @@
+@_2992_SmartBooking_Server_HostAddress = http://localhost:5160
+
+GET {{_2992_SmartBooking_Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
